@@ -1,0 +1,143 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,EMPLOYMENT STATUS,,
+2,Population 16 years and over,"2,248",100.0
+3,In labor force,"1,493",66.4
+4,Civilian labor force,"1,493",66.4
+5,Employed,"1,379",61.3
+6,Unemployed,114,5.1
+7,Armed Forces,0,0.0
+8,Not in labor force,755,33.6
+9,,,
+10,Civilian labor force,"1,493",66.4
+11,Percent Unemployed,7.6,
+12,,,
+13,Females 16 years and over,"1,245",55.4
+14,In labor force,836,37.2
+15,Civilian labor force,836,37.2
+16,Employed,765,34.0
+17,,,
+18,Own children under 6 years,197,8.8
+19,All parents in family in labor force,187,8.3
+20,,,
+21,Own children 6 to 17 years,400,17.8
+22,All parents in family in labor force,359,16.0
+23,,,
+24,COMMUTING TO WORK,,
+25,Workers 16 years and over,"1,335",100.0
+26,"Car, truck, or van -- drove alone","1,003",75.1
+27,"Car, truck, or van -- carpooled",233,17.5
+28,Public transportation (excluding taxicab),1,0.1
+29,Walked,44,3.3
+30,Other means,26,1.9
+31,Worked at home,28,2.1
+32,,,
+33,Mean travel time to work (minutes),22.1,
+34,,,
+35,OCCUPATION,,
+36,Civilian employed population 16 years and over,"1,379",100.0
+37,"Management, professional, and related occupations",436,31.6
+38,Service occupations,214,15.5
+39,Sales and office occupations,318,23.1
+40,"Farming, fishing, and forestry occupations",53,3.8
+41,"Construction, extraction, maintenance, and repair occupations",233,16.9
+42,"Production, transportation, and material moving occupations",125,9.1
+43,,,
+44,INDUSTRY,,
+45,Civilian employed population 16 years and over,"1,379",100.0
+46,"Agriculture, forestry, fishing and hunting, and mining",120,8.7
+47,Construction,109,7.9
+48,Manufacturing,155,11.2
+49,Wholesale trade,33,2.4
+50,Retail trade,106,7.7
+51,"Transportation and warehousing, and utilities",34,2.5
+52,Information,36,2.6
+53,"Finance and insurance, & real estate & rental & leasing",68,4.9
+54,"Professional, scientific & mgmt, & admin & waste mgmt services",114,8.3
+55,Educational services & health care & social assistance,318,23.1
+56,"Arts, entertainment & recreation & accommodation & food services",95,6.9
+57,"Other services, except public administration",78,5.7
+58,Public administration,113,8.2
+59,,,
+60,CLASS OF WORKER,,
+61,Civilian employed population 16 years and over,"1,379",100.0
+62,Private wage and salary workers,773,56.1
+63,Government workers,402,29.2
+64,Self-employed in own not incorporated business workers,185,13.4
+65,Unpaid family workers,19,1.4
+66,,,
+67,INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS),,
+68,Total households,"1,195",100.0
+69,"Less than $10,000",107,9.0
+70,"$10,000 to $14,999",27,2.3
+71,"$15,000 to $24,999",126,10.5
+72,"$25,000 to $34,999",162,13.6
+73,"$35,000 to $49,999",177,14.8
+74,"$50,000 to $74,999",336,28.1
+75,"$75,000 to $99,999",127,10.6
+76,"$100,000 to $149,999",123,10.3
+77,"$150,000 to $199,999",0,0.0
+78,"$200,000 or more",10,0.8
+79,Median household income (dollars),"49,779",
+80,Mean household income (dollars),"53,319",
+81,,,
+82,With earnings,921,77.1
+83,Mean earnings (dollars),"49,067",
+84,With Social Security,425,35.6
+85,Mean Social Security income (dollars),"15,774",
+86,With retirement income,252,21.1
+87,Mean retirement income (dollars),"16,422",
+88,,,
+89,With Supplemental Security Income,48,4.0
+90,Mean Supplemental Security Income (dollars),"7,606",
+91,With cash public assistance income,19,1.6
+92,Mean cash public assistance income (dollars),663,
+93,With Food Stamp/SNAP benefits in the past 12 months,96,8.0
+94,,,
+95,Families,905,100.0
+96,"Less than $10,000",32,3.5
+97,"$10,000 to $14,999",5,0.6
+98,"$15,000 to $24,999",91,10.1
+99,"$25,000 to $34,999",111,12.3
+100,"$35,000 to $49,999",151,16.7
+101,"$50,000 to $74,999",289,31.9
+102,"$75,000 to $99,999",119,13.1
+103,"$100,000 to $149,999",97,10.7
+104,"$150,000 to $199,999",0,0.0
+105,"$200,000 or more",10,1.1
+106,Median family income (dollars),"53,750",
+107,Mean family income (dollars),"58,575",
+108,,,
+109,Per capita income (dollars),"22,460",
+110,,,
+111,Nonfamily households,290,32.0
+112,Median nonfamily income (dollars),"24,844",
+113,Mean nonfamily income (dollars),"33,899",
+114,,,
+115,Median earnings for workers (dollars),"24,851",
+116,"Median earnings for male full-time, year-round workers (dollars)","35,875",
+117,"Median earnings for female full-time, year-round workers (dollars)","29,057",
+118,,,
+119,PERCENT FAMILIES & PEOPLE WITH INCOME IN PAST 12 MO BELOW POVERTY LEVEL,,
+120,All families,5.0,
+121,With related children under 18 years,11.2,
+122,With related children under 5 years only,27.3,
+123,Married couple families,1.1,
+124,With related children under 18 years,2.6,
+125,With related children under 5 years only,0.0,
+126,"Families with female householder, no husband present",25.7,
+127,With related children under 18 years,28.5,
+128,With related children under 5 years only,39.6,
+129,,,
+130,All people,7.3,
+131,Under 18 years,11.8,
+132,Related children under 18 years,11.0,
+133,Related children under 5 years,24.1,
+134,Related children 5 to 17 years,6.5,
+135,18 years and over,6.0,
+136,18 to 64 years,7.0,
+137,65 years and over,3.2,
+138,People in families,5.0,
+139,Unrelated individuals 15 years and over,24.0,
+140,,,
+141,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,

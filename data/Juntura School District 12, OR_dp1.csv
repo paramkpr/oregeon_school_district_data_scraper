@@ -1,0 +1,99 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,GENDER AND AGE,,
+2,Total population,97,100.0
+3,Male,58,59.8
+4,Female,39,40.2
+5,,,
+6,Under 5 years,0,0.0
+7,5 to 9 years,7,7.2
+8,10 to 14 years,19,19.6
+9,15 to 19 years,2,2.1
+10,20 to 24 years,0,0.0
+11,25 to 34 years,0,0.0
+12,35 to 44 years,19,19.6
+13,45 to 54 years,19,19.6
+14,55 to 59 years,17,17.5
+15,60 to 64 years,0,0.0
+16,65 to 74 years,8,8.2
+17,75 to 84 years,6,6.2
+18,85 years and over,0,0.0
+19,,,
+20,Median age (years),46.5,
+21,,,
+22,18 years and over,69,71.1
+23,21 years and over,69,71.1
+24,62 years and over,14,14.4
+25,65 years and over,14,14.4
+26,,,
+27,18 years and over,69,71.1
+28,Male,38,39.2
+29,Female,31,32.0
+30,,,
+31,65 years and over,14,14.4
+32,Male,7,7.2
+33,Female,7,7.2
+34,,,
+35,RACE,,
+36,Total population,97,100.0
+37,One race,97,100.0
+38,Two or more races,0,0.0
+39,,,
+40,One race,97,100.0
+41,White,85,87.6
+42,Black or African American,12,12.4
+43,American Indian and Alaska Native,0,0.0
+44,Cherokee tribal grouping,0,0.0
+45,Chippewa tribal grouping,0,0.0
+46,Navajo tribal grouping,0,0.0
+47,Sioux tribal grouping,0,0.0
+48,Asian,0,0.0
+49,Asian Indian,0,0.0
+50,Chinese,0,0.0
+51,Filipino,0,0.0
+52,Japanese,0,0.0
+53,Korean,0,0.0
+54,Vietnamese,0,0.0
+55,Other Asian,0,0.0
+56,Native Hawaiian and Other Pacific Islander,0,0.0
+57,Native Hawaiian,0,0.0
+58,Guamanian or Chamorro,0,0.0
+59,Samoan,0,0.0
+60,Other Pacific Islander,0,0.0
+61,Some other race,0,0.0
+62,Two or more races,0,0.0
+63,White and Black or African American,0,0.0
+64,White and American Indian and Alaska Native,0,0.0
+65,White and Asian,0,0.0
+66,Black or African American and American Indian and Alaska Native,0,0.0
+67,,,
+68,Race alone or in combination with one or more other races,,
+69,Total population,97,100.0
+70,White,85,87.6
+71,Black or African American,12,12.4
+72,American Indian and Alaska Native,0,0.0
+73,Asian,0,0.0
+74,Native Hawaiian and Other Pacific Islander,0,0.0
+75,Some other race,0,0.0
+76,,,
+77,HISPANIC OR LATINO AND RACE,,
+78,Total population,97,100.0
+79,Hispanic or Latino (of any race),0,0.0
+80,Mexican,0,0.0
+81,Puerto Rican,0,0.0
+82,Cuban,0,0.0
+83,Other Hispanic or Latino,0,0.0
+84,Not Hispanic or Latino,97,100.0
+85,White alone,85,87.6
+86,Black or African American alone,12,12.4
+87,American Indian and Alaska Native alone,0,0.0
+88,Asian alone,0,0.0
+89,Native Hawaiian and Other Pacific Islander alone,0,0.0
+90,Some other race alone,0,0.0
+91,Two or more races,0,0.0
+92,Two races including Some other race,0,0.0
+93,Two races excl Some other race & three or more races,0,0.0
+94,,,
+95,Total housing units,83,100.0
+96,,,
+97,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,

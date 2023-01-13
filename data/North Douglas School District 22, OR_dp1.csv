@@ -1,0 +1,99 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,GENDER AND AGE,,
+2,Total population,"2,596",100.0
+3,Male,"1,312",50.5
+4,Female,"1,284",49.5
+5,,,
+6,Under 5 years,166,6.4
+7,5 to 9 years,215,8.3
+8,10 to 14 years,195,7.5
+9,15 to 19 years,109,4.2
+10,20 to 24 years,109,4.2
+11,25 to 34 years,244,9.4
+12,35 to 44 years,244,9.4
+13,45 to 54 years,469,18.1
+14,55 to 59 years,169,6.5
+15,60 to 64 years,180,6.9
+16,65 to 74 years,307,11.8
+17,75 to 84 years,132,5.1
+18,85 years and over,57,2.2
+19,,,
+20,Median age (years),45.2,
+21,,,
+22,18 years and over,"1,965",75.7
+23,21 years and over,"1,887",72.7
+24,62 years and over,602,23.2
+25,65 years and over,496,19.1
+26,,,
+27,18 years and over,"1,965",75.7
+28,Male,987,38.0
+29,Female,978,37.7
+30,,,
+31,65 years and over,496,19.1
+32,Male,211,8.1
+33,Female,285,11.0
+34,,,
+35,RACE,,
+36,Total population,"2,596",100.0
+37,One race,"2,495",96.1
+38,Two or more races,101,3.9
+39,,,
+40,One race,"2,495",96.1
+41,White,"2,467",95.0
+42,Black or African American,0,0.0
+43,American Indian and Alaska Native,19,0.7
+44,Cherokee tribal grouping,6,0.2
+45,Chippewa tribal grouping,0,0.0
+46,Navajo tribal grouping,0,0.0
+47,Sioux tribal grouping,0,0.0
+48,Asian,9,0.3
+49,Asian Indian,9,0.3
+50,Chinese,0,0.0
+51,Filipino,0,0.0
+52,Japanese,0,0.0
+53,Korean,0,0.0
+54,Vietnamese,0,0.0
+55,Other Asian,0,0.0
+56,Native Hawaiian and Other Pacific Islander,0,0.0
+57,Native Hawaiian,0,0.0
+58,Guamanian or Chamorro,0,0.0
+59,Samoan,0,0.0
+60,Other Pacific Islander,0,0.0
+61,Some other race,0,0.0
+62,Two or more races,101,3.9
+63,White and Black or African American,8,0.3
+64,White and American Indian and Alaska Native,88,3.4
+65,White and Asian,5,0.2
+66,Black or African American and American Indian and Alaska Native,0,0.0
+67,,,
+68,Race alone or in combination with one or more other races,,
+69,Total population,"2,596",100.0
+70,White,"2,568",98.9
+71,Black or African American,8,0.3
+72,American Indian and Alaska Native,107,4.1
+73,Asian,14,0.5
+74,Native Hawaiian and Other Pacific Islander,0,0.0
+75,Some other race,0,0.0
+76,,,
+77,HISPANIC OR LATINO AND RACE,,
+78,Total population,"2,596",100.0
+79,Hispanic or Latino (of any race),61,2.3
+80,Mexican,47,1.8
+81,Puerto Rican,0,0.0
+82,Cuban,0,0.0
+83,Other Hispanic or Latino,14,0.5
+84,Not Hispanic or Latino,"2,535",97.7
+85,White alone,"2,429",93.6
+86,Black or African American alone,0,0.0
+87,American Indian and Alaska Native alone,19,0.7
+88,Asian alone,9,0.3
+89,Native Hawaiian and Other Pacific Islander alone,0,0.0
+90,Some other race alone,0,0.0
+91,Two or more races,78,3.0
+92,Two races including Some other race,0,0.0
+93,Two races excl Some other race & three or more races,78,3.0
+94,,,
+95,Total housing units,"1,110",100.0
+96,,,
+97,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,

@@ -1,0 +1,181 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,Total households,"2,281",100.0
+2,Family households (families),"1,515",66.4
+3,With own children under 18 years,490,21.5
+4,Married-couple family,"1,266",55.5
+5,With own children under 18 years,324,14.2
+6,"Male householder, no wife present, family",54,2.4
+7,With own children under 18 years,45,2.0
+8,"Female householder, no husband present, family",195,8.5
+9,With own children under 18 years,121,5.3
+10,Nonfamily households,766,33.6
+11,Householder living alone,684,30.0
+12,65 years and over,320,14.0
+13,,,
+14,Households with one or more people under 18 years,532,23.3
+15,Households with one or more people 65 years and over,926,40.6
+16,,,
+17,Average household size,2.13,
+18,Average family size,2.51,
+19,,,
+20,RELATIONSHIP,,
+21,Population in households,"4,868",100.0
+22,Householder,"2,281",46.9
+23,Spouse,"1,259",25.9
+24,Child,914,18.8
+25,Other relatives,119,2.4
+26,Nonrelatives,295,6.1
+27,Unmarried partner,124,2.5
+28,,,
+29,MARITAL STATUS,,
+30,Males 15 years and over,"2,026",100.0
+31,Never married,314,15.5
+32,"Now married, except separated","1,420",70.1
+33,Separated,0,0.0
+34,Widowed,83,4.1
+35,Divorced,209,10.3
+36,,,
+37,Females 15 years and over,"2,157",100.0
+38,Never married,283,13.1
+39,"Now married, except separated","1,248",57.9
+40,Separated,59,2.7
+41,Widowed,296,13.7
+42,Divorced,271,12.6
+43,,,
+44,FERTILITY,,
+45,Number of women 15 to 50 years old who had a birth in past 12 mo,75,100.0
+46,"Unmarried women (widowed, divorced, and never married)",42,56.0
+47,"Per 1,000 unmarried women",94,
+48,"Per 1,000 women 15 to 50 years old",80,
+49,"Per 1,000 women 15 to 19 years old",0,
+50,"Per 1,000 women 20 to 34 years old",177,
+51,"Per 1,000 women 35 to 50 years old",46,
+52,,,
+53,GRANDPARENTS,,
+54,Number of grandparents living with own grandchildren under 18 years,30,100.0
+55,Responsible for grandchildren,0,0.0
+56,Years responsible for grandchildren,,
+57,Less than 1 year,0,0.0
+58,1 or 2 years,0,0.0
+59,3 or 4 years,0,0.0
+60,5 or more years,0,0.0
+61,,,
+62,Number of grandparents resp for own grandchildren under 18 yrs,0,0.0
+63,Who are female,0,0.0
+64,Who are married,0,0.0
+65,,,
+66,SCHOOL ENROLLMENT,,
+67,Population 3 years and over enrolled in school,766,100.0
+68,"Nursery school, preschool",69,9.0
+69,Kindergarten,62,8.1
+70,Elementary school (grades 1-8),312,40.7
+71,High school (grades 9-12),265,34.6
+72,College or graduate school,58,7.6
+73,,,
+74,EDUCATIONAL ATTAINMENT,,
+75,Population 25 years and over,"3,656",100.0
+76,Less than 9th grade,55,1.5
+77,"9th to 12th grade, no diploma",249,6.8
+78,High school graduate (includes equivalency),"1,300",35.6
+79,"Some college, no degree","1,103",30.2
+80,Associate's degree,315,8.6
+81,Bachelor's degree,415,11.4
+82,Graduate or professional degree,219,6.0
+83,,,
+84,Percent high school graduate or higher,91.7,
+85,Percent bachelor's degree or higher,17.3,
+86,,,
+87,VETERAN STATUS,,
+88,Civilian population 18 years and over,"3,985",100.0
+89,Civilian veterans,668,16.8
+90,,,
+91,RESIDENCE 1 YEAR AGO,,
+92,Population 1 year and over,"4,817",100.0
+93,Same house,"4,197",87.1
+94,Different house in the U.S.,620,12.9
+95,Same county,395,8.2
+96,Different county,225,4.7
+97,Same state,41,0.9
+98,Different state,184,3.8
+99,Abroad,0,0.0
+100,,,
+101,PLACE OF BIRTH,,
+102,Total population,"4,868",100.0
+103,Native,"4,712",96.8
+104,Born in United States,"4,680",96.1
+105,State of residence,"1,942",39.9
+106,Different state,"2,738",56.2
+107,"Born in P.R, U.S. Island areas, or abroad to American parent(s)",32,0.7
+108,Foreign born,156,3.2
+109,,,
+110,U.S. CITIZENSHIP STATUS,,
+111,Foreign-born population,156,100.0
+112,Naturalized U.S. citizen,101,64.7
+113,Not a U.S. citizen,55,35.3
+114,,,
+115,YEAR OF ENTRY,,
+116,Population born outside the United States,188,100.0
+117,,,
+118,Native,32,17.0
+119,Entered 2000 or later,0,0.0
+120,Entered before 2000,32,17.0
+121,,,
+122,Foreign born,156,83.0
+123,Entered 2000 or later,10,5.3
+124,Entered before 2000,146,77.7
+125,,,
+126,WORLD REGION OF BIRTH OF FOREIGN BORN,,
+127,"Foreign-born population, excluding population born at sea",156,100.0
+128,Europe,139,89.1
+129,Asia,17,10.9
+130,Africa,0,0.0
+131,Oceania,0,0.0
+132,Latin America,0,0.0
+133,Northern America,0,0.0
+134,,,
+135,LANGUAGE SPOKEN AT HOME,,
+136,Population 5 years and over,"4,609",100.0
+137,English only,"4,476",97.1
+138,Language other than English,133,2.9
+139,"Speak English less than ""very well""",54,1.2
+140,Spanish,39,0.8
+141,"Speak English less than ""very well""",35,0.8
+142,Other Indo-European languages,84,1.8
+143,"Speak English less than ""very well""",19,0.4
+144,Asian and Pacific Islander languages,10,0.2
+145,"Speak English less than ""very well""",0,0.0
+146,Other languages,0,0.0
+147,"Speak English less than ""very well""",0,0.0
+148,,,
+149,ANCESTRY,,
+150,Total population,"4,868",100.0
+151,American,292,6.0
+152,Arab,0,0.0
+153,Czech,14,0.3
+154,Danish,22,0.5
+155,Dutch,99,2.0
+156,English,874,18.0
+157,French (except Basque),262,5.4
+158,French Canadian,0,0.0
+159,German,"1,356",27.9
+160,Greek,0,0.0
+161,Hungarian,0,0.0
+162,Irish,757,15.6
+163,Italian,283,5.8
+164,Lithuanian,9,0.2
+165,Norwegian,186,3.8
+166,Polish,113,2.3
+167,Portuguese,69,1.4
+168,Russian,26,0.5
+169,Scotch-Irish,129,2.6
+170,Scottish,176,3.6
+171,Slovak,15,0.3
+172,Subsaharan African,0,0.0
+173,Swedish,185,3.8
+174,Swiss,29,0.6
+175,Ukrainian,0,0.0
+176,Welsh,106,2.2
+177,West Indian (excluding Hispanic origin groups),0,0.0
+178,,,
+179,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,

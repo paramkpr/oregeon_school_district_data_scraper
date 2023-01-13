@@ -1,0 +1,1394 @@
+[{
+        "name": "Adel School District 21, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100990.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100990.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100990.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100990.htm"
+    },
+    {
+        "name": "Adrian School District 61, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101020.htm"
+    },
+    {
+        "name": "Alsea School District 7J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101200.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101200.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101200.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101200.htm"
+    },
+    {
+        "name": "Amity School District 4J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101230.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101230.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101230.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101230.htm"
+    },
+    {
+        "name": "Annex School District 29, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101350.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101350.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101350.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101350.htm"
+    },
+    {
+        "name": "Arlington School District 3, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101470.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101470.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101470.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101470.htm"
+    },
+    {
+        "name": "Arock School District 81, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101500.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101500.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101500.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101500.htm"
+    },
+    {
+        "name": "Ashland School District 5, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101560.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101560.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101560.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101560.htm"
+    },
+    {
+        "name": "Ashwood School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101590.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101590.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101590.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101590.htm"
+    },
+    {
+        "name": "Astoria School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101620.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101620.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101620.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101620.htm"
+    },
+    {
+        "name": "Athena-Weston School District 29J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101660.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101660.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101660.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101660.htm"
+    },
+    {
+        "name": "Baker School District 5J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101710.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101710.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101710.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101710.htm"
+    },
+    {
+        "name": "Bandon School District 54, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101800.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101800.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101800.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101800.htm"
+    },
+    {
+        "name": "Banks School District 13, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101830.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101830.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101830.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101830.htm"
+    },
+    {
+        "name": "Beaverton School District 48J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101920.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101920.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101920.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101920.htm"
+    },
+    {
+        "name": "Bend-La Pine Administrative School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101980.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101980.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101980.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101980.htm"
+    },
+    {
+        "name": "Bethel School District 52, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102040.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102040.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102040.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102040.htm"
+    },
+    {
+        "name": "Blachly School District 090, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102160.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102160.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102160.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102160.htm"
+    },
+    {
+        "name": "Black Butte School District 41, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102190.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102190.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102190.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102190.htm"
+    },
+    {
+        "name": "Brookings-Harbor School District 17, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102310.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102310.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102310.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102310.htm"
+    },
+    {
+        "name": "Burnt River School District 30J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101740.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101740.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101740.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101740.htm"
+    },
+    {
+        "name": "Butte Falls School District 91, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102580.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102580.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102580.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102580.htm"
+    },
+    {
+        "name": "Camas Valley School District 21J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102610.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102610.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102610.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102610.htm"
+    },
+    {
+        "name": "Canby School District 86, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102640.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102640.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102640.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102640.htm"
+    },
+    {
+        "name": "Cascade School District 5, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102780.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102780.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102780.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102780.htm"
+    },
+    {
+        "name": "Centennial School District 28J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102800.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102800.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102800.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102800.htm"
+    },
+    {
+        "name": "Central Curry School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105760.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105760.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105760.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105760.htm"
+    },
+    {
+        "name": "Central Linn School District 552, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102910.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102910.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102910.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102910.htm"
+    },
+    {
+        "name": "Central Point School District 6, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102940.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102940.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102940.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102940.htm"
+    },
+    {
+        "name": "Central School District 13J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102840.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102840.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102840.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102840.htm"
+    },
+    {
+        "name": "Clatskanie School District 6J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103260.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103260.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103260.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103260.htm"
+    },
+    {
+        "name": "Colton School District 53, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103270.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103270.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103270.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103270.htm"
+    },
+    {
+        "name": "Condon School District 25J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103330.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103330.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103330.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103330.htm"
+    },
+    {
+        "name": "Coos Bay School District 9, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103660.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103660.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103660.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103660.htm"
+    },
+    {
+        "name": "Coquille School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103390.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103390.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103390.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103390.htm"
+    },
+    {
+        "name": "Corbett School District 39, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103420.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103420.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103420.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103420.htm"
+    },
+    {
+        "name": "Corvallis School District 509J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103480.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103480.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103480.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103480.htm"
+    },
+    {
+        "name": "Cove School District 15, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103540.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103540.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103540.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103540.htm"
+    },
+    {
+        "name": "Creswell School District 40, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103690.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103690.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103690.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103690.htm"
+    },
+    {
+        "name": "Crook County School District, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103720.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103720.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103720.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103720.htm"
+    },
+    {
+        "name": "Crow-Applegate-Lorane Sd 66, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103780.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103780.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103780.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103780.htm"
+    },
+    {
+        "name": "Culver School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103840.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103840.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103840.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103840.htm"
+    },
+    {
+        "name": "Dallas School District 2, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103860.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103860.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103860.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103860.htm"
+    },
+    {
+        "name": "David Douglas School District 40, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103940.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103940.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103940.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103940.htm"
+    },
+    {
+        "name": "Days Creek School District 15, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103960.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103960.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103960.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103960.htm"
+    },
+    {
+        "name": "Dayton School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103990.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103990.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103990.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103990.htm"
+    },
+    {
+        "name": "Dayville School District 16J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104020.htm"
+    },
+    {
+        "name": "Diamond School District 7, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104170.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104170.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104170.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104170.htm"
+    },
+    {
+        "name": "Double O School District 28, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104290.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104290.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104290.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104290.htm"
+    },
+    {
+        "name": "Drewsey School District 13, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104380.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104380.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104380.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104380.htm"
+    },
+    {
+        "name": "Dufur School District 29, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104410.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104410.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104410.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104410.htm"
+    },
+    {
+        "name": "Eagle Point School District 9, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104500.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104500.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104500.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104500.htm"
+    },
+    {
+        "name": "Echo School District 5, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104530.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104530.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104530.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104530.htm"
+    },
+    {
+        "name": "Elgin School District 23, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104590.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104590.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104590.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104590.htm"
+    },
+    {
+        "name": "Elkton School District 34, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104620.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104620.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104620.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104620.htm"
+    },
+    {
+        "name": "Enterprise School District 21, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105080.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105080.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105080.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105080.htm"
+    },
+    {
+        "name": "Estacada School District 108, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104700.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104700.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104700.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104700.htm"
+    },
+    {
+        "name": "Eugene School District 4J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104740.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104740.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104740.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104740.htm"
+    },
+    {
+        "name": "Falls City School District 57, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100003.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100003.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100003.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100003.htm"
+    },
+    {
+        "name": "Fern Ridge School District 28J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104950.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104950.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104950.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104950.htm"
+    },
+    {
+        "name": "Forest Grove School District 15, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105160.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105160.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105160.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105160.htm"
+    },
+    {
+        "name": "Fossil School District 21J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105250.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105250.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105250.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105250.htm"
+    },
+    {
+        "name": "Frenchglen School District 16, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105310.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105310.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105310.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105310.htm"
+    },
+    {
+        "name": "Gaston School District 511J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105430.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105430.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105430.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105430.htm"
+    },
+    {
+        "name": "Gervais School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100015.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100015.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100015.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100015.htm"
+    },
+    {
+        "name": "Gladstone School District 115, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105610.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105610.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105610.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105610.htm"
+    },
+    {
+        "name": "Glendale School District 77, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105640.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105640.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105640.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105640.htm"
+    },
+    {
+        "name": "Glide School District 12, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105670.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105670.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105670.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105670.htm"
+    },
+    {
+        "name": "Grants Pass School District 7, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105910.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105910.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105910.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105910.htm"
+    },
+    {
+        "name": "Greater Albany School District 8J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4101120.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4101120.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4101120.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4101120.htm"
+    },
+    {
+        "name": "Gresham-Barlow School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106000.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106000.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106000.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106000.htm"
+    },
+    {
+        "name": "Harney County School District 3, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4102490.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4102490.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4102490.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4102490.htm"
+    },
+    {
+        "name": "Harney County School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103600.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103600.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103600.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103600.htm"
+    },
+    {
+        "name": "Harney County Union High School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103630.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103630.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103630.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103630.htm"
+    },
+    {
+        "name": "Harper School District 66, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106120.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106120.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106120.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106120.htm"
+    },
+    {
+        "name": "Harrisburg School District 7J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100019.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100019.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100019.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100019.htm"
+    },
+    {
+        "name": "Helix School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106270.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106270.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106270.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106270.htm"
+    },
+    {
+        "name": "Hermiston School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106300.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106300.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106300.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106300.htm"
+    },
+    {
+        "name": "Hillsboro School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100023.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100023.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100023.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100023.htm"
+    },
+    {
+        "name": "Hood River County School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106510.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106510.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106510.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106510.htm"
+    },
+    {
+        "name": "Huntington School District 16J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106600.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106600.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106600.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106600.htm"
+    },
+    {
+        "name": "Imbler School District 11, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106630.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106630.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106630.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106630.htm"
+    },
+    {
+        "name": "Ione School District 2, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100047.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100047.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100047.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100047.htm"
+    },
+    {
+        "name": "Jefferson County School District 509J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106740.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106740.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106740.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106740.htm"
+    },
+    {
+        "name": "Jefferson School District 14J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106710.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106710.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106710.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106710.htm"
+    },
+    {
+        "name": "Jewell School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106750.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106750.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106750.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106750.htm"
+    },
+    {
+        "name": "John Day School District 3, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106780.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106780.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106780.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106780.htm"
+    },
+    {
+        "name": "Jordan Valley School District 3, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106820.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106820.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106820.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106820.htm"
+    },
+    {
+        "name": "Joseph School District 6, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106870.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106870.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106870.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106870.htm"
+    },
+    {
+        "name": "Junction City School District 69, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106930.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106930.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106930.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106930.htm"
+    },
+    {
+        "name": "Juntura School District 12, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106960.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106960.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106960.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106960.htm"
+    },
+    {
+        "name": "Klamath County Overlap Area, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4141035.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4141035.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4141035.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4141035.htm"
+    },
+    {
+        "name": "Klamath County School District, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107020.htm"
+    },
+    {
+        "name": "Klamath Falls City Overlap Area, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4141034.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4141034.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4141034.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4141034.htm"
+    },
+    {
+        "name": "Klamath Falls City Schools, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107080.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107080.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107080.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107080.htm"
+    },
+    {
+        "name": "Knappa School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100040.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100040.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100040.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100040.htm"
+    },
+    {
+        "name": "La Grande School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107200.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107200.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107200.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107200.htm"
+    },
+    {
+        "name": "Lake Oswego School District 7J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107230.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107230.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107230.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107230.htm"
+    },
+    {
+        "name": "Lakeview School District 7, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107280.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107280.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107280.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107280.htm"
+    },
+    {
+        "name": "Lebanon Community School District 9, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107380.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107380.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107380.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107380.htm"
+    },
+    {
+        "name": "Lincoln County School District, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107500.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107500.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107500.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107500.htm"
+    },
+    {
+        "name": "Long Creek School District 17, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107530.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107530.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107530.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107530.htm"
+    },
+    {
+        "name": "Lowell School District 71, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107590.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107590.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107590.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107590.htm"
+    },
+    {
+        "name": "Mapleton School District 32, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107710.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107710.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107710.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107710.htm"
+    },
+    {
+        "name": "Marcola School District 79J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107740.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107740.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107740.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107740.htm"
+    },
+    {
+        "name": "McDermitt School District 51, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107880.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107880.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107880.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107880.htm"
+    },
+    {
+        "name": "McKenzie School District 68, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4107980.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4107980.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4107980.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4107980.htm"
+    },
+    {
+        "name": "McMinnville School District 40, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108010.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108010.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108010.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108010.htm"
+    },
+    {
+        "name": "Medford School District 549, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108040.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108040.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108040.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108040.htm"
+    },
+    {
+        "name": "Milton-Freewater School District 7, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108160.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108160.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108160.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108160.htm"
+    },
+    {
+        "name": "Mitchell School District 55, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108280.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108280.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108280.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108280.htm"
+    },
+    {
+        "name": "Molalla River School District 35, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108310.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108310.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108310.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108310.htm"
+    },
+    {
+        "name": "Monroe School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108430.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108430.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108430.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108430.htm"
+    },
+    {
+        "name": "Monument School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108460.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108460.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108460.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108460.htm"
+    },
+    {
+        "name": "Morrow School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108520.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108520.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108520.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108520.htm"
+    },
+    {
+        "name": "Mount Angel School District 91, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108550.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108550.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108550.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108550.htm"
+    },
+    {
+        "name": "Myrtle Point School District 41, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100640.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100640.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100640.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100640.htm"
+    },
+    {
+        "name": "Neah-Kah-Nie School District 56, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108650.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108650.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108650.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108650.htm"
+    },
+    {
+        "name": "Nestucca Valley School District 101J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108700.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108700.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108700.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108700.htm"
+    },
+    {
+        "name": "Newberg School District 29J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108720.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108720.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108720.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108720.htm"
+    },
+    {
+        "name": "North Bend School District 13, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108820.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108820.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108820.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108820.htm"
+    },
+    {
+        "name": "North Clackamas School District 12, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108830.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108830.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108830.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108830.htm"
+    },
+    {
+        "name": "North Douglas School District 22, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4104350.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4104350.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4104350.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4104350.htm"
+    },
+    {
+        "name": "North Lake School District 14, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111400.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111400.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111400.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111400.htm"
+    },
+    {
+        "name": "North Marion School District 15, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108880.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108880.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108880.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108880.htm"
+    },
+    {
+        "name": "North Powder School District 8J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108940.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108940.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108940.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108940.htm"
+    },
+    {
+        "name": "North Santiam School District 29J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100020.htm"
+    },
+    {
+        "name": "North Wasco School District 21, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100048.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100048.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100048.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100048.htm"
+    },
+    {
+        "name": "Nyssa School District 26, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109000.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109000.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109000.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109000.htm"
+    },
+    {
+        "name": "Oakland School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109120.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109120.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109120.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109120.htm"
+    },
+    {
+        "name": "Oakridge School District 76, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109150.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109150.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109150.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109150.htm"
+    },
+    {
+        "name": "Ontario School District 8, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109270.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109270.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109270.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109270.htm"
+    },
+    {
+        "name": "Oregon City School District 62, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109330.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109330.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109330.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109330.htm"
+    },
+    {
+        "name": "Oregon Trail School District 46, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110920.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110920.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110920.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110920.htm"
+    },
+    {
+        "name": "Paisley School District 11, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109430.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109430.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109430.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109430.htm"
+    },
+    {
+        "name": "Parkrose School District 3, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109480.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109480.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109480.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109480.htm"
+    },
+    {
+        "name": "Pendleton School District 16, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109510.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109510.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109510.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109510.htm"
+    },
+    {
+        "name": "Perrydale School District 21, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109530.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109530.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109530.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109530.htm"
+    },
+    {
+        "name": "Philomath School District 17J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109600.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109600.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109600.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109600.htm"
+    },
+    {
+        "name": "Phoenix-Talent School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109630.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109630.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109630.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109630.htm"
+    },
+    {
+        "name": "Pilot Rock School District 2, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109660.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109660.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109660.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109660.htm"
+    },
+    {
+        "name": "Pine Creek School District 5, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109690.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109690.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109690.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109690.htm"
+    },
+    {
+        "name": "Pine-Eagle School District 61, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109720.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109720.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109720.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109720.htm"
+    },
+    {
+        "name": "Pinehurst School District 94, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109750.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109750.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109750.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109750.htm"
+    },
+    {
+        "name": "Pleasant Hill School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109870.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109870.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109870.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109870.htm"
+    },
+    {
+        "name": "Plush School District 18, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4109960.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4109960.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4109960.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4109960.htm"
+    },
+    {
+        "name": "Port Orford-Langlois School District 2J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110020.htm"
+    },
+    {
+        "name": "Portland School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110040.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110040.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110040.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110040.htm"
+    },
+    {
+        "name": "Powers School District 31, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110080.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110080.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110080.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110080.htm"
+    },
+    {
+        "name": "Prairie City School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110110.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110110.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110110.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110110.htm"
+    },
+    {
+        "name": "Prospect School District 59, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110200.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110200.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110200.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110200.htm"
+    },
+    {
+        "name": "Rainier School District 13, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4103265.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4103265.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4103265.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4103265.htm"
+    },
+    {
+        "name": "Redmond School District 2J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110350.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110350.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110350.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110350.htm"
+    },
+    {
+        "name": "Reedsport School District 105, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110410.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110410.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110410.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110410.htm"
+    },
+    {
+        "name": "Reynolds School District 7, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110520.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110520.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110520.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110520.htm"
+    },
+    {
+        "name": "Riddle School District 70, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110530.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110530.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110530.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110530.htm"
+    },
+    {
+        "name": "Riverdale School District 51J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110560.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110560.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110560.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110560.htm"
+    },
+    {
+        "name": "Rogue River School District 35, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110680.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110680.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110680.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110680.htm"
+    },
+    {
+        "name": "Roseburg School District 4, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110710.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110710.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110710.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110710.htm"
+    },
+    {
+        "name": "Salem-Keizer School District 24J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110820.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110820.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110820.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110820.htm"
+    },
+    {
+        "name": "Santiam Canyon School District 129J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4108100.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4108100.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4108100.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4108100.htm"
+    },
+    {
+        "name": "Scappoose School District 1J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4110980.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4110980.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4110980.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4110980.htm"
+    },
+    {
+        "name": "Scio School District 95, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111040.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111040.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111040.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111040.htm"
+    },
+    {
+        "name": "Seaside School District 10, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111100.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111100.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111100.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111100.htm"
+    },
+    {
+        "name": "Sheridan School District 48J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111220.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111220.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111220.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111220.htm"
+    },
+    {
+        "name": "Sherman School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111250.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111250.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111250.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111250.htm"
+    },
+    {
+        "name": "Sherwood School District 88J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111290.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111290.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111290.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111290.htm"
+    },
+    {
+        "name": "Silver Falls School District 4J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111470.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111470.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111470.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111470.htm"
+    },
+    {
+        "name": "Sisters School District 6, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111490.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111490.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111490.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111490.htm"
+    },
+    {
+        "name": "Siuslaw School District 97J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105100.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105100.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105100.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105100.htm"
+    },
+    {
+        "name": "South Harney School District 33, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4105020.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4105020.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4105020.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4105020.htm"
+    },
+    {
+        "name": "South Lane School District 45J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111580.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111580.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111580.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111580.htm"
+    },
+    {
+        "name": "South Umpqua School District 19, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111610.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111610.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111610.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111610.htm"
+    },
+    {
+        "name": "South Wasco County School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100021.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100021.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100021.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100021.htm"
+    },
+    {
+        "name": "Spray School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111640.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111640.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111640.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111640.htm"
+    },
+    {
+        "name": "Springfield School District 19, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111670.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111670.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111670.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111670.htm"
+    },
+    {
+        "name": "St. Helens School District 502, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111720.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111720.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111720.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111720.htm"
+    },
+    {
+        "name": "St. Paul School District 45, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111760.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111760.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111760.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111760.htm"
+    },
+    {
+        "name": "Stanfield School District 61, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111790.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111790.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111790.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111790.htm"
+    },
+    {
+        "name": "Suntex School District 10, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111910.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111910.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111910.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111910.htm"
+    },
+    {
+        "name": "Sutherlin School District 130, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111940.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111940.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111940.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111940.htm"
+    },
+    {
+        "name": "Sweet Home School District 55, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4111970.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4111970.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4111970.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4111970.htm"
+    },
+    {
+        "name": "Three Rivers School District, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4106900.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4106900.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4106900.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4106900.htm"
+    },
+    {
+        "name": "Tigard-Tualatin School District 23J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112240.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112240.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112240.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112240.htm"
+    },
+    {
+        "name": "Tillamook School District 9, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112320.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112320.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112320.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112320.htm"
+    },
+    {
+        "name": "Troy School District 54, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112360.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112360.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112360.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112360.htm"
+    },
+    {
+        "name": "Ukiah School District 80, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112540.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112540.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112540.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112540.htm"
+    },
+    {
+        "name": "Umatilla School District 6, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112600.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112600.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112600.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112600.htm"
+    },
+    {
+        "name": "Union School District 5, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112690.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112690.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112690.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112690.htm"
+    },
+    {
+        "name": "Vale School District 84, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100014.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100014.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100014.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100014.htm"
+    },
+    {
+        "name": "Vernonia School District 47J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112930.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112930.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112930.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112930.htm"
+    },
+    {
+        "name": "Wallowa School District 12, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4112990.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4112990.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4112990.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4112990.htm"
+    },
+    {
+        "name": "Warrenton-Hammond School District 30, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113080.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113080.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113080.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113080.htm"
+    },
+    {
+        "name": "West Linn School District 3J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113170.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113170.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113170.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113170.htm"
+    },
+    {
+        "name": "Willamina School District 30J, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113350.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113350.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113350.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113350.htm"
+    },
+    {
+        "name": "Winston-Dillard School District 116, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113490.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113490.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113490.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113490.htm"
+    },
+    {
+        "name": "Woodburn School District 103, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113530.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113530.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113530.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113530.htm"
+    },
+    {
+        "name": "Yamhill-Carlton School District 1, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4100016.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4100016.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4100016.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4100016.htm"
+    },
+    {
+        "name": "Yoncalla School District 32, OR",
+        "dp1": "http://proximityone.com/acs/dpor/dp1_4113650.htm",
+        "dp2": "http://proximityone.com/acs/dpor/dp2_4113650.htm",
+        "dp3": "http://proximityone.com/acs/dpor/dp3_4113650.htm",
+        "dp4": "http://proximityone.com/acs/dpor/dp4_4113650.htm"
+    }
+]

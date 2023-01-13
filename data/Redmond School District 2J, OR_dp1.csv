@@ -1,0 +1,99 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,GENDER AND AGE,,
+2,Total population,"42,467",100.0
+3,Male,"20,854",49.1
+4,Female,"21,613",50.9
+5,,,
+6,Under 5 years,"2,506",5.9
+7,5 to 9 years,"3,082",7.3
+8,10 to 14 years,"2,676",6.3
+9,15 to 19 years,"2,782",6.6
+10,20 to 24 years,"2,683",6.3
+11,25 to 34 years,"4,798",11.3
+12,35 to 44 years,"5,739",13.5
+13,45 to 54 years,"6,419",15.1
+14,55 to 59 years,"3,106",7.3
+15,60 to 64 years,"2,539",6.0
+16,65 to 74 years,"3,491",8.2
+17,75 to 84 years,"2,122",5.0
+18,85 years and over,524,1.2
+19,,,
+20,Median age (years),39.8,
+21,,,
+22,18 years and over,"32,336",76.1
+23,21 years and over,"30,782",72.5
+24,62 years and over,"7,677",18.1
+25,65 years and over,"6,137",14.5
+26,,,
+27,18 years and over,"32,336",76.1
+28,Male,"15,936",37.5
+29,Female,"16,400",38.6
+30,,,
+31,65 years and over,"6,137",14.5
+32,Male,"2,927",6.9
+33,Female,"3,210",7.6
+34,,,
+35,RACE,,
+36,Total population,"42,467",100.0
+37,One race,"41,643",98.1
+38,Two or more races,824,1.9
+39,,,
+40,One race,"41,643",98.1
+41,White,"39,703",93.5
+42,Black or African American,137,0.3
+43,American Indian and Alaska Native,528,1.2
+44,Cherokee tribal grouping,139,0.3
+45,Chippewa tribal grouping,9,0.0
+46,Navajo tribal grouping,0,0.0
+47,Sioux tribal grouping,0,0.0
+48,Asian,475,1.1
+49,Asian Indian,0,0.0
+50,Chinese,260,0.6
+51,Filipino,12,0.0
+52,Japanese,69,0.2
+53,Korean,60,0.1
+54,Vietnamese,62,0.1
+55,Other Asian,12,0.0
+56,Native Hawaiian and Other Pacific Islander,16,0.0
+57,Native Hawaiian,16,0.0
+58,Guamanian or Chamorro,0,0.0
+59,Samoan,0,0.0
+60,Other Pacific Islander,0,0.0
+61,Some other race,784,1.8
+62,Two or more races,824,1.9
+63,White and Black or African American,239,0.6
+64,White and American Indian and Alaska Native,298,0.7
+65,White and Asian,102,0.2
+66,Black or African American and American Indian and Alaska Native,8,0.0
+67,,,
+68,Race alone or in combination with one or more other races,,
+69,Total population,"42,467",100.0
+70,White,"40,439",95.2
+71,Black or African American,447,1.1
+72,American Indian and Alaska Native,917,2.2
+73,Asian,622,1.5
+74,Native Hawaiian and Other Pacific Islander,32,0.1
+75,Some other race,891,2.1
+76,,,
+77,HISPANIC OR LATINO AND RACE,,
+78,Total population,"42,467",100.0
+79,Hispanic or Latino (of any race),"3,602",8.5
+80,Mexican,"3,007",7.1
+81,Puerto Rican,43,0.1
+82,Cuban,0,0.0
+83,Other Hispanic or Latino,552,1.3
+84,Not Hispanic or Latino,"38,865",91.5
+85,White alone,"37,260",87.7
+86,Black or African American alone,137,0.3
+87,American Indian and Alaska Native alone,241,0.6
+88,Asian alone,475,1.1
+89,Native Hawaiian and Other Pacific Islander alone,16,0.0
+90,Some other race alone,20,0.0
+91,Two or more races,716,1.7
+92,Two races including Some other race,58,0.1
+93,Two races excl Some other race & three or more races,658,1.5
+94,,,
+95,Total housing units,"18,661",100.0
+96,,,
+97,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,

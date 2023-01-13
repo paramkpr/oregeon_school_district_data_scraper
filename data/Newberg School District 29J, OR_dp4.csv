@@ -1,0 +1,186 @@
+,label,value,percent
+0,-- Table/Item --,Value,Percent
+1,HOUSING OCCUPANCY,,
+2,Total housing units,"12,971",100.0
+3,Occupied housing units,"12,272",94.6
+4,Vacant housing units,699,5.4
+5,,,
+6,Homeowner vacancy rate,1.3,
+7,Rental vacancy rate,6.4,
+8,,,
+9,UNITS IN STRUCTURE,,
+10,Total housing units,"12,971",100.0
+11,"1-unit, detached","9,041",69.7
+12,"1-unit, attached",552,4.3
+13,2 units,520,4.0
+14,3 or 4 units,398,3.1
+15,5 to 9 units,429,3.3
+16,10 to 19 units,225,1.7
+17,20 or more units,667,5.1
+18,Mobile home,"1,128",8.7
+19,"Boat, RV, van, etc.",11,0.1
+20,,,
+21,YEAR STRUCTURE BUILT,,
+22,Total housing units,"12,971",100.0
+23,Built 2005 or later,713,5.5
+24,Built 2000 to 2004,"1,435",11.1
+25,Built 1990 to 1999,"2,991",23.1
+26,Built 1980 to 1989,"1,517",11.7
+27,Built 1970 to 1979,"2,738",21.1
+28,Built 1960 to 1969,"1,301",10.0
+29,Built 1950 to 1959,572,4.4
+30,Built 1940 to 1949,487,3.8
+31,Built 1939 or earlier,"1,217",9.4
+32,,,
+33,ROOMS,,
+34,Total housing units,"12,971",100.0
+35,1 room,195,1.5
+36,2 rooms,295,2.3
+37,3 rooms,937,7.2
+38,4 rooms,"2,098",16.2
+39,5 rooms,"2,648",20.4
+40,6 rooms,"2,571",19.8
+41,7 rooms,"1,608",12.4
+42,8 rooms,"1,122",8.7
+43,9 rooms or more,"1,497",11.5
+44,Median rooms,5.6,
+45,,,
+46,BEDROOMS,,
+47,Total housing units,"12,971",100.0
+48,No bedroom,271,2.1
+49,1 bedroom,735,5.7
+50,2 bedrooms,"3,043",23.5
+51,3 bedrooms,"6,361",49.0
+52,4 bedrooms,"2,074",16.0
+53,5 or more bedrooms,487,3.8
+54,,,
+55,HOUSING TENURE,,
+56,Occupied housing units,"12,272",100.0
+57,Owner-occupied,"8,915",72.6
+58,Renter-occupied,"3,357",27.4
+59,,,
+60,Average household size of owner-occupied unit,2.74,
+61,Average household size of renter-occupied unit,2.55,
+62,,,
+63,YEAR HOUSEHOLDER MOVED INTO UNIT,,
+64,Occupied housing units,"12,272",100.0
+65,Moved in 2005 or later,"4,135",33.7
+66,Moved in 2000 to 2004,"3,825",31.2
+67,Moved in 1990 to 1999,"2,753",22.4
+68,Moved in 1980 to 1989,795,6.5
+69,Moved in 1970 to 1979,558,4.5
+70,Moved in 1969 or earlier,206,1.7
+71,,,
+72,VEHICLES AVAILABLE,,
+73,Occupied housing units,"12,272",100.0
+74,No vehicles available,681,5.5
+75,1 vehicle available,"2,913",23.7
+76,2 vehicles available,"5,000",40.7
+77,3 or more vehicles available,"3,678",30.0
+78,,,
+79,HOUSE HEATING FUEL,,
+80,Occupied housing units,"12,272",100.0
+81,Utility gas,"4,753",38.7
+82,"Bottled, tank, or LP gas",333,2.7
+83,Electricity,"6,061",49.4
+84,"Fuel oil, kerosene, etc.",320,2.6
+85,Coal or coke,0,0.0
+86,Wood,730,5.9
+87,Solar energy,0,0.0
+88,Other fuel,75,0.6
+89,No fuel used,0,0.0
+90,,,
+91,SELECTED CHARACTERISTICS,,
+92,Occupied housing units,"12,272",100.0
+93,Lacking complete plumbing facilities,0,0.0
+94,Lacking complete kitchen facilities,269,2.2
+95,No telephone service available,286,2.3
+96,,,
+97,OCCUPANTS PER ROOM,,
+98,Occupied housing units,"12,272",100.0
+99,1.00 or less,"11,939",97.3
+100,1.01 to 1.50,243,2.0
+101,1.51 or more,90,0.7
+102,,,
+103,VALUE,,
+104,Owner-occupied units,"8,915",100.0
+105,"Less than $50,000",799,9.0
+106,"$50,000 to $99,999",231,2.6
+107,"$100,000 to $149,999",530,5.9
+108,"$150,000 to $199,999","1,030",11.6
+109,"$200,000 to $299,999","2,826",31.7
+110,"$300,000 to $499,999","2,148",24.1
+111,"$500,000 to $999,999","1,105",12.4
+112,"$1,000,000 or more",246,2.8
+113,Median (dollars),"251,500",
+114,,,
+115,MORTGAGE STATUS,,
+116,Owner-occupied units,"8,915",100.0
+117,Housing units with a mortgage,"6,924",77.7
+118,Housing units without a mortgage,"1,991",22.3
+119,,,
+120,SELECTED MONTHLY OWNER COSTS (SMOC),,
+121,Housing units with a mortgage,"6,924",100.0
+122,Less than $300,5,0.1
+123,$300 to $499,78,1.1
+124,$500 to $699,99,1.4
+125,$700 to $999,611,8.8
+126,"$1,000 to $1,499","1,971",28.5
+127,"$1,500 to $1,999","2,105",30.4
+128,"$2,000 or more","2,055",29.7
+129,Median (dollars),"1,669",
+130,,,
+131,Housing units without a mortgage,"1,991",100.0
+132,Less than $100,15,0.8
+133,$100 to $199,120,6.0
+134,$200 to $299,153,7.7
+135,$300 to $399,438,22.0
+136,$400 or more,"1,265",63.5
+137,Median (dollars),460,
+138,,,
+139,SELECTED MONTHLY OWNER COSTS AS PERCENT OF HOUSEHOLD INCOME (SMOCAPI),,
+140,Housing units with mortgage (excl units where SMOCAPI cannot be computed),"6,898",100.0
+141,Less than 20.0 percent,"1,758",25.5
+142,20.0 to 24.9 percent,"1,166",16.9
+143,25.0 to 29.9 percent,"1,208",17.5
+144,30.0 to 34.9 percent,767,11.1
+145,35.0 percent or more,"1,999",29.0
+146,,,
+147,Not computed,26,0.4
+148,,,
+149,Housing units without mortgage (excl units where SMOCAPI cannot be computed),"1,976",100.0
+150,Less than 10.0 percent,723,36.6
+151,10.0 to 14.9 percent,338,17.1
+152,15.0 to 19.9 percent,330,16.7
+153,20.0 to 24.9 percent,187,9.5
+154,25.0 to 29.9 percent,35,1.8
+155,30.0 to 34.9 percent,51,2.6
+156,35.0 percent or more,312,15.8
+157,,,
+158,Not computed,15,0.8
+159,,,
+160,GROSS RENT,,
+161,Occupied units paying rent,"3,149",100.0
+162,Less than $200,36,1.1
+163,$200 to $299,137,4.4
+164,$300 to $499,139,4.4
+165,$500 to $749,"1,091",34.6
+166,$750 to $999,582,18.5
+167,"$1,000 to $1,499",896,28.5
+168,"$1,500 or more",268,8.5
+169,Median (dollars),797,
+170,,,
+171,No rent paid,208,6.6
+172,,,
+173,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,
+174,Occupied units paying rent (excl units where GRAPI cannot be computed),"3,149",100.0
+175,Less than 15.0 percent,299,9.5
+176,15.0 to 19.9 percent,603,19.1
+177,20.0 to 24.9 percent,251,8.0
+178,25.0 to 29.9 percent,470,14.9
+179,30.0 to 34.9 percent,222,7.0
+180,35.0 percent or more,"1,304",41.4
+181,,,
+182,Not computed,208,6.6
+183,,,
+184,Developed by ProximityOne; Census Bureau ACS 2009 Estimates,,
